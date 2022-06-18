@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["hello_rs","integ_test_example"];

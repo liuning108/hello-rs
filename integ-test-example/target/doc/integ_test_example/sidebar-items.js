@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_process_id","This function gets the process id of the current executable. It returns a non-zero number"],["test","This is function get “test” for test"]]});
