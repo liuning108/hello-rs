@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/control-flow/control-flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datatype/datatype.iml" filepath="$PROJECT_DIR$/datatype/datatype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gussing_game/gussing_game.iml" filepath="$PROJECT_DIR$/gussing_game/gussing_game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-rs.iml" filepath="$PROJECT_DIR$/hello-rs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integ-test-example/integ-test-example.iml" filepath="$PROJECT_DIR$/integ-test-example/integ-test-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownership/ownership.iml" filepath="$PROJECT_DIR$/ownership/ownership.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reference_and_borrowing/reference_and_borrowing.iml" filepath="$PROJECT_DIR$/reference_and_borrowing/reference_and_borrowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slice_type/slice_type.iml" filepath="$PROJECT_DIR$/slice_type/slice_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structs/structs.iml" filepath="$PROJECT_DIR$/structs/structs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
