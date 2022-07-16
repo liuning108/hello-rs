@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/slice_type/slice_type.iml" filepath="$PROJECT_DIR$/slice_type/slice_type.iml" />
       <module fileurl="file://$PROJECT_DIR$/structs/structs.iml" filepath="$PROJECT_DIR$/structs/structs.iml" />
       <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/traits/traits.iml" filepath="$PROJECT_DIR$/traits/traits.iml" />
+
     </modules>
   </component>
 </project>
