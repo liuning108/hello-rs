@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/control-flow/control-flow.iml" filepath="$PROJECT_DIR$/control-flow/control-flow.iml" />
       <module fileurl="file://$PROJECT_DIR$/datatype/datatype.iml" filepath="$PROJECT_DIR$/datatype/datatype.iml" />
       <module fileurl="file://$PROJECT_DIR$/db/db.iml" filepath="$PROJECT_DIR$/db/db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/gussing_game/gussing_game.iml" filepath="$PROJECT_DIR$/gussing_game/gussing_game.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-rs.iml" filepath="$PROJECT_DIR$/hello-rs.iml" />
       <module fileurl="file://$PROJECT_DIR$/integ-test-example/integ-test-example.iml" filepath="$PROJECT_DIR$/integ-test-example/integ-test-example.iml" />
